@@ -3,7 +3,7 @@ set -e
 
 # Configuration - change these as needed
 CLUSTER_NAME="wordpress-cluster"
-REGION="us-west-2"
+REGION="us-east-1"
 NODE_GROUP_NAME="wordpress-nodes"
 INSTANCE_TYPE="t3.medium"
 MIN_NODES=2
